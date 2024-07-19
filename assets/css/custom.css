@@ -1,0 +1,107 @@
+body.is-preload {
+	background-color: #343434;
+	color: #92dbdd;
+}
+
+/* Sidebar */
+#sidebar {
+	background-color: #482071;
+}
+#sidebar .inner {
+	color: #92dbdd;
+}
+#sidebar nav ul li a {
+	color: #92dbdd;
+}
+#sidebar nav ul li a:hover {
+	color: #42b5b8;
+}
+
+/* Wrapper */
+#wrapper {
+	background-color: #343434;
+	color: #92dbdd;
+}
+
+/* Introduction Section */
+#intro h2 {
+	color: #42b5b8;
+}
+#intro h1 {
+	color: #744c9d;
+}
+.technologies h3 {
+	color: #42b5b8;
+}
+.technologies .column h4 {
+	color: #744c9d;
+}
+
+/* Project Section */
+#one .header h2 {
+	color: #42b5b8;
+}
+#one .content h2 {
+	color: #744c9d;
+}
+#one .actions .button {
+	background-color: #42b5b8;
+	color: #343434;
+}
+#one .actions .button:hover {
+	background-color: #744c9d;
+	color: #92dbdd;
+}
+
+/* Journal Section */
+#two h2 {
+	color: #42b5b8;
+}
+#two .large-box h3 {
+	color: #744c9d;
+}
+
+/* Contact Section */
+#three h2 {
+	color: #42b5b8;
+}
+#three p {
+	color: #92dbdd;
+}
+#three .contact h3 {
+	color: #744c9d;
+}
+#three .contact ul .icon {
+	color: #92dbdd;
+}
+
+/* Footer */
+#footer {
+	background-color: #482071;
+}
+#footer .inner {
+	color: #92dbdd;
+}
+#footer .inner .menu li a {
+	color: #92dbdd;
+}
+#footer .inner .menu li a:hover {
+	color: #42b5b8;
+}
+
+/* Form Fields */
+.fields .field input, .fields .field textarea {
+	background-color: #482071;
+	color: #92dbdd;
+}
+.fields .field input:focus, .fields .field textarea:focus {
+	border-color: #42b5b8;
+}
+.button.submit {
+	background-color: #42b5b8;
+	color: #343434;
+}
+.button.submit:hover {
+	background-color: #744c9d;
+	color: #92dbdd;
+}
